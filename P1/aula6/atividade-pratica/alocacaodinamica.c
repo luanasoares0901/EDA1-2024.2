@@ -43,9 +43,6 @@ void inserir_medida(cidade, temperatura){
     printf("Digite a temperatura: ");
     scanf("%f", temperatura);
 
-    
-
-
 }
 
 int main(){
